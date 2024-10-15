@@ -10,7 +10,7 @@ Original file is located at
 import streamlit as st
 
 # Title of the app
-st.title("Greeting App")
+st.title("Assignment 5 Greeting App")
 
 # Create a text input box
 user_name = st.text_input("Enter your name:")
